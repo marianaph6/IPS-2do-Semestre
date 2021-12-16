@@ -1,0 +1,13 @@
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\bin\Debug\Final_IPS.exe.config
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\bin\Debug\Final_IPS.exe
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\bin\Debug\Final_IPS.pdb
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\obj\Debug\Final_IPS.csprojResolveAssemblyReference.cache
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\obj\Debug\Final_IPS.Ingreso.resources
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\obj\Debug\Final_IPS.Menu.resources
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\obj\Debug\Final_IPS.Pacientes.resources
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\obj\Debug\Final_IPS.Properties.Resources.resources
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\obj\Debug\Final_IPS.csproj.GenerateResource.Cache
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\obj\Debug\Final_IPS.exe
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\obj\Debug\Final_IPS.pdb
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\obj\Debug\Final_IPS.Medicos.resources
+c:\users\mariana\documents\visual studio 2015\Projects\Final_IPS\Final_IPS\obj\Debug\Final_IPS.Citas.resources
